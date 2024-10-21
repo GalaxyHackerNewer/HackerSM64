@@ -1,0 +1,13 @@
+HackerSM64 a SM64 Hack Pack Tool For Making Rom Hack Of SM64
+HackerSM64 un SM64 Hack Pack Outil Pour Fabriquer Rom Hack De SM64
+SM64=Super Mario 64
+Small Update
+Petite Mise A Jour
+Add in this repositorie the text_strings.h file if you don't have it
+Ajout dans ce répertoire le text_strings.h fichier si vous ne l'avez pas
+drag'n drop in build/us_n64/include folder after build it
+glisser déposer dans build/us_n64/include dossier après l'avoir construit
+and fix mario_actions_moving.c
+et réparation mario_actions_moving.c
+drag'n drop inside src/game folder no build require
+glisser déposer dans src/game dossier pas de construction requise
